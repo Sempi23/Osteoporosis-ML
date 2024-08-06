@@ -25,6 +25,8 @@ Osteoporosis often goes undiagnosed until its advanced stages, leading to signif
 - Scikit-learn
 - Matplotlib
 - Plotly
+- Bootstrap
+- Spark
 
 ## Project Workflow
 
