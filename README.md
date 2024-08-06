@@ -110,3 +110,6 @@ This project demonstrates the effective use of machine learning to address a cri
 ---
 
 This comprehensive README file provides all the necessary information about the project, from problem statement and objectives to detailed workflow and installation instructions. It ensures that anyone interested in the project can understand its scope, methodology, and outcomes.
+
+## Disclaimer:
+This project report is for educational purposes only. The results and conclusions are based on the provided dataset and the methodologies applied during the course.
